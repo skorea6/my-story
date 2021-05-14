@@ -24,22 +24,27 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
 * 2019~2020년 : Python, JAVA, Powershell, C#
 * 2021년 : JAVA Spring Boot, JPA, QueryDsl
 
-# 수상/업적
-## 'Agar.io' 세포증식게임, 최초 한국형 웹게임 제작 (오픈소스 활용)
+# 언어 연습
+* C: https://github.com/talk105/C_Language_BASE
+* C++: https://github.com/talk105/C_plusplus_Language_BASE
+* Python: https://github.com/talk105/Python_Language_BASE
+
+# 수상/업적 (2015~2021년)
+### ★ 'Agar.io' 세포증식게임, 최초 한국형 웹게임 제작 (오픈소스 활용)
     - Blog: https://blog.naver.com/skorea6/221777525090
     - Github: https://github.com/talk105/Agario_Korea
     
   ![image](https://user-images.githubusercontent.com/13993684/118234022-b69d7580-b4cd-11eb-827e-72f8af26e44d.png)
     
     
-## 'XE 기반 홈페이지' 제작 (2건)
+### 'XE 기반 홈페이지' 제작 (2건)
     - Blog: https://blog.naver.com/skorea6/221229819789 , https://blog.naver.com/skorea6/221229818730
     - Github: https://github.com/talk105/KoreaSecurity_WEB , https://github.com/talk105/PBELINE_WEB
     
   ![image](https://user-images.githubusercontent.com/13993684/118234061-c87f1880-b4cd-11eb-8294-238e29ccfecf.png)
 
 
-## '제 2회 경기 게임영재캠프 특별상' 수상 (넥슨, 카카오 후원)
+### ★ '제 2회 경기 게임영재캠프 특별상' 수상 (넥슨, 카카오 후원)
     - Naver Cafe: https://cafe.naver.com/ggamecamp
     - Github: https://github.com/GGGC2/sleeping.clan
     - Unity 를 이용한 게임 제작, '잠자는숲속클랜'
@@ -48,7 +53,7 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
   ![KakaoTalk_20210514_155310562_01](https://user-images.githubusercontent.com/13993684/118233189-8a352980-b4cc-11eb-8661-34e643f540ae.jpg)
     
     
-## '자동화 클라우드' 서비스 제작 (Hyper-V 이용)
+### ★ '자동화 클라우드' 서비스 제작 (Hyper-V 이용)
     - Blog: https://blog.naver.com/skorea6/221292966852
     - Github: https://github.com/talk105/BarunCloud , https://github.com/talk105/BarunCloud_ServerSide
     - Site: http://domains.dothome.co.kr/
@@ -56,7 +61,7 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
   ![image](https://user-images.githubusercontent.com/13993684/118234094-d59c0780-b4cd-11eb-84e1-500fac5c47a6.png)
     
     
-## '짧은 주소, 짧은 도메인 생성' 서비스 제작 (php)
+### ★ '짧은 주소, 짧은 도메인 생성' 서비스 제작 (php)
     - Blog: https://blog.naver.com/skorea6/221229825173
     - Github: https://github.com/talk105/ABZ.KR_ShortURL
     - Site: http://abz.kr
@@ -64,16 +69,40 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
   ![image](https://user-images.githubusercontent.com/13993684/118234266-13992b80-b4ce-11eb-8bf5-32d6e8cc3574.png)
 
 
-## '유튜브 구독 체크 후 이벤트 응모' 서비스 제작 (php)
+### '유튜브 구독 체크 후 이벤트 응모' 서비스 제작 (php)
     - Blog: https://blog.naver.com/skorea6/221335666715
     - Github: https://github.com/talk105/YoutubeEvent
 
    ![image](https://user-images.githubusercontent.com/13993684/118240386-ebadc600-b4d5-11eb-8a45-83c6446ae8eb.png)
 
 
-## 리눅스 마스터 2급 자격증 취득
+### ★ 리눅스 마스터 2급 자격증 취득
     - 리눅스와 네트워크의 전반적인 이해를 하게 되어서 뜻깊었습니다.
     
   ![KakaoTalk_20210514_170316125](https://user-images.githubusercontent.com/13993684/118240840-6aa2fe80-b4d6-11eb-8012-3b1901613785.jpg)
 
 
+### ★ LIVE OTT 서비스 + 채팅서비스 개발 (Nodejs, php)
+    - Github: https://github.com/talk105/LiveOTT
+    - Github: https://github.com/talk105/LiveOTT_EpgServer
+    - Github: https://github.com/talk105/LiveOTT_ChatServer
+    
+    - Wowza Streaming Service 를 이용하여 직접 방송 송출 
+    - NodeJS로 채팅 서비스 개발
+
+### ★ 삼성전자 온라인 주주총회 서비스 개발 (JAVA Spring, AWS, Akamai, Wowza)
+    - '온오프링크 주식회사' 와 함께 참여한 프로젝트입니다.
+    - Blog: https://blog.naver.com/skorea6/222306052263
+    - Github: https://github.com/talk105/SamsungShareholders_WEB
+    - Site: https://www.samsungagm.com
+
+![image](https://user-images.githubusercontent.com/13993684/118242050-d89bf580-b4d7-11eb-8c42-9579bbd7ffd9.png)
+ ![image](https://user-images.githubusercontent.com/13993684/118242081-e2bdf400-b4d7-11eb-9cdb-4877257c1b0c.png)
+
+
+ 
+ ### 삼성전기, 삼성물산, 삼성 SDI, 삼성 SDS, 삼성바이로직스 온라인 주주총회 서비스 개발 (JAVA Spring, Wowza)
+    - 삼성전자 대비 접속자가 별로 없을 것을 예상하고, 
+    - 스마일IDC의 Loadbalancing 기능을 이용하여 Wowza 서버를 구축하였습니다.
+
+![image](https://user-images.githubusercontent.com/13993684/118242013-cde16080-b4d7-11eb-9dde-cf7cb67124a3.png)
