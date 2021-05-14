@@ -24,6 +24,11 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
 * 2019~2020년 : Python, JAVA, Powershell, C#
 * 2021년 : JAVA Spring Boot, JPA, QueryDsl
 
+# 자신있다고 생각하는것?
+* 개발 언어: php, java spring
+* 클라우드: aws(loadbalancing, cloudfront)
+* 그 외: wowza streaming service(dvr, latency tuning)
+
 # 언어 연습
 * C: https://github.com/talk105/C_Language_BASE
 * C++: https://github.com/talk105/C_plusplus_Language_BASE
