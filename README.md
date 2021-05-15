@@ -29,6 +29,12 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
 * 클라우드: aws(loadbalancing, cloudfront)
 * 그 외: wowza streaming service(dvr, latency tuning)
 
+# 배워보고 싶은 것?
+* Kotlin, Groovy
+* 마이크로서비스
+* Mobile APP 과 Java Spring으로 만든 API 와의 연동
+* 트래픽 절감 기술
+
 # 언어 연습
 * C: https://github.com/talk105/C_Language_BASE
 * C++: https://github.com/talk105/C_plusplus_Language_BASE
