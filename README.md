@@ -44,6 +44,10 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
 * 2015년~2021년까지 진행한 작업니다.
 * Blog, Github 주소를 함께 적었으며, 현재 운영되는 사이트일 경우 사이트 주소도 적었습니다.
 * 일부 Github 는 Private 상태입니다.
+1. ['Agar.io' 세포증식게임, 한국형 웹게임](#-agario-세포증식게임-최초-한국형-웹게임-제작-오픈소스-활용)
+2. [XE 기반 홈페이지](#xe-기반-홈페이지-제작-2건)
+
+
 ### ★ 'Agar.io' 세포증식게임, 최초 한국형 웹게임 제작 (오픈소스 활용)
     - Blog: https://blog.naver.com/skorea6/221777525090
     - Github: https://github.com/talk105/Agario_Korea
