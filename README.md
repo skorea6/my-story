@@ -37,7 +37,7 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
 
 # 언어 연습
 * C: https://github.com/skorea6/C_Language_Basic
-* C++: https://github.com/skorea6C_plusplus_Language_Basic
+* C++: https://github.com/skorea6/C_plusplus_Language_Basic
 * Python: https://github.com/skorea6/Python_Language_Basic
 * JAVA: https://github.com/skorea6/JAVA_Language_Basic
 * JAVA Spring: https://github.com/skorea6/JAVA_Spring_Basic
