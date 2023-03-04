@@ -59,14 +59,14 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
 
 ### ★ 'Agar.io' 세포증식게임, 최초 한국형 웹게임 제작 (오픈소스 활용)
     - Blog: https://blog.naver.com/skorea6/221777525090
-    - Github: https://github.com/talk105/Agario_Korea
+    - Github: https://github.com/skorea6/Agario_Korea
     
   ![image](https://user-images.githubusercontent.com/13993684/118234022-b69d7580-b4cd-11eb-827e-72f8af26e44d.png)
     
     
 ### 'XE 기반 홈페이지' 제작 (2건)
     - Blog: https://blog.naver.com/skorea6/221229819789 , https://blog.naver.com/skorea6/221229818730
-    - Github: https://github.com/talk105/KoreaSecurity_WEB , https://github.com/talk105/PBELINE_WEB
+    - Github: https://github.com/skorea6/KoreaSecurity_WEB , https://github.com/skorea6/PBELINE_WEB
     
   ![image](https://user-images.githubusercontent.com/13993684/118234061-c87f1880-b4cd-11eb-8294-238e29ccfecf.png)
 
@@ -82,7 +82,7 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
     
 ### ★ '자동화 클라우드' 서비스 제작 (Hyper-V 이용)
     - Blog: https://blog.naver.com/skorea6/221292966852
-    - Github: https://github.com/talk105/BarunCloud , https://github.com/talk105/BarunCloud_ServerSide
+    - Github: https://github.com/skorea6/BarunCloud , https://github.com/skorea6/BarunCloud_ServerSide
     - Site: http://domains.dothome.co.kr/
     
   ![image](https://user-images.githubusercontent.com/13993684/118234094-d59c0780-b4cd-11eb-84e1-500fac5c47a6.png)
@@ -90,7 +90,7 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
     
 ### ★ '짧은 주소, 짧은 도메인 생성' 서비스 제작 (php)
     - Blog: https://blog.naver.com/skorea6/221229825173
-    - Github: https://github.com/talk105/ABZ.KR_ShortURL
+    - Github: https://github.com/skorea6/ABZ.KR_ShortURL
     - Site: http://abz.kr
     
   ![image](https://user-images.githubusercontent.com/13993684/118234266-13992b80-b4ce-11eb-8bf5-32d6e8cc3574.png)
@@ -98,7 +98,7 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
 
 ### '유튜브 구독 체크 후 이벤트 응모' 서비스 제작 (php)
     - Blog: https://blog.naver.com/skorea6/221335666715
-    - Github: https://github.com/talk105/YoutubeEvent
+    - Github: https://github.com/skorea6/YoutubeEvent
 
    ![image](https://user-images.githubusercontent.com/13993684/118240386-ebadc600-b4d5-11eb-8a45-83c6446ae8eb.png)
 
@@ -110,9 +110,9 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
 
 
 ### ★ LIVE OTT 서비스 + 채팅서비스 개발 (Nodejs, php)
-    - Github: https://github.com/talk105/LiveOTT
-    - Github: https://github.com/talk105/LiveOTT_EpgServer
-    - Github: https://github.com/talk105/LiveOTT_ChatServer
+    - Github: https://github.com/skorea6/LiveOTT
+    - Github: https://github.com/skorea6/LiveOTT_EpgServer
+    - Github: https://github.com/skorea6/LiveOTT_ChatServer
     
     - Wowza Streaming Service 를 이용하여 직접 방송 송출 
     - NodeJS로 채팅 서비스 개발
@@ -120,7 +120,7 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
 ### ★ 삼성전자 온라인 주주총회 서비스 개발 (JAVA Spring, AWS, Akamai, Wowza)
     - '온오프링크 주식회사' 와 함께 참여한 프로젝트입니다.
     - Blog: https://blog.naver.com/skorea6/222306052263
-    - Github: https://github.com/talk105/SamsungShareholders_WEB
+    - Github: https://github.com/skorea6/SamsungShareholders_WEB
     - Site: https://www.samsungagm.com
 
 ![image](https://user-images.githubusercontent.com/13993684/118242050-d89bf580-b4d7-11eb-8c42-9579bbd7ffd9.png)
