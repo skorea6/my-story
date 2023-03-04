@@ -26,8 +26,8 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
 
 # 자신있다고 생각하는것?
 * 개발 언어: python fastapi, php, java spring
-* 클라우드: aws(loadbalancing, cloudfront)
-* 그 외: 데이터베이스 설계 및 연관관계 매핑, wowza streaming service(dvr, latency tuning)
+* 클라우드: aws(redis cache, ec2, loadbalancing, cloudfront)
+* 그 외: 데이터베이스 설계 및 연관관계 매핑, wowza streaming(dvr, latency tuning)
 
 # 배워보고 싶은 것?
 * Kotlin, Groovy
