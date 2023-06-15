@@ -70,15 +70,6 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
   ![image](https://user-images.githubusercontent.com/13993684/118234061-c87f1880-b4cd-11eb-8294-238e29ccfecf.png)
 
 
-### ★ '제 2회 경기 게임영재캠프 특별상' 수상 (넥슨, 카카오 후원)
-    - Naver Cafe: https://cafe.naver.com/ggamecamp
-    - Github: https://github.com/GGGC2/sleeping.clan
-    - Unity 를 이용한 게임 제작, '잠자는숲속클랜'
-
-  ![KakaoTalk_20210514_155310562](https://user-images.githubusercontent.com/13993684/118233183-8903fc80-b4cc-11eb-8e31-f4d2bf6d0b89.jpg)
-  ![KakaoTalk_20210514_155310562_01](https://user-images.githubusercontent.com/13993684/118233189-8a352980-b4cc-11eb-8661-34e643f540ae.jpg)
-    
-    
 ### ★ '자동화 클라우드' 서비스 제작 (Hyper-V 이용)
     - Blog: https://blog.naver.com/skorea6/221292966852
     - Github: https://github.com/skorea6/BarunCloud , https://github.com/skorea6/BarunCloud_ServerSide
