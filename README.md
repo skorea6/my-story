@@ -39,7 +39,7 @@ JAVA Spring 을 사용시 '테스트 코드 작성'을 중요시하고 있으며
 * Python: https://github.com/skorea6/Python_Language_Basic
 * JAVA: https://github.com/skorea6/JAVA_Language_Basic
 
-# 김영한님 강의 수강 목록
+# 스프링 강의 수강 목록
 * 스프링 입문: https://github.com/skorea6/hello-spring
 * 스프링 핵심 원리: https://github.com/skorea6/spring-core
 * JPA & ORM: https://github.com/skorea6/hellojpa
